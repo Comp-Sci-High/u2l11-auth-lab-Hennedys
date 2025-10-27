@@ -4,7 +4,7 @@
 // MAKE SURE TO SELECT API AND NOT SDK & put "Web" as your platform
 // Save your API key in a variable below
 
-
+e
 // Task 2: Endpoint Identification
 // Under GIPHY API, find the GIF & Sticker endpoints
 // Find the endpoint that lets you search for GIFs 
